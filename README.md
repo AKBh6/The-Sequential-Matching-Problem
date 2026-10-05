@@ -71,7 +71,8 @@ The new folder must not already exist. The generator uses only invented data and
 
 ## Submit and ask questions
 
-Research deadline: **11 October 2026, 23:59 IST**. Build deadline: **18 October 2026, 23:59 IST**. Teams: **1–4 participants**. Use [Research submission](https://github.com/RomeoJulietLove/The-Sequential-Matching-Problem/issues/new?template=research_submission.yml), [Final submission](https://github.com/RomeoJulietLove/The-Sequential-Matching-Problem/issues/new?template=final_submission.yml), or [Question](https://github.com/RomeoJulietLove/The-Sequential-Matching-Problem/issues/new?template=question.yml). Submit public project links and an immutable commit SHA; do not post personal information or credentials.
+Research Submission deadline: **11 October 2026, 23:59 IST**.  Build Submission deadline: **18 October 2026, 23:59 IST**. (submission links will be provided via G-space)
+Teams: **1–4 participants**. Use [Question](https://github.com/RomeoJulietLove/The-Sequential-Matching-Problem/issues/new?template=question.yml). 
 
 This repository and public Issues are the shared technical communication hub. A Google Chat Space, WhatsApp group or Unstop listing can link here. Questions answered here are visible to every team. See [CHANGELOG.md](CHANGELOG.md) for release corrections.
 
