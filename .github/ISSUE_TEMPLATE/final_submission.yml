@@ -15,7 +15,7 @@ body:
     id: source
     attributes:
       label: "Public source URL and immutable version"
-      description: "Provide a repository URL and full 40-character commit SHA, or source archive URL and SHA-256."
+      description: "Provide a repository URL and full 40-character commit SHA, or immutable public archive URL and full SHA-256 of its exact bytes; mutable download links are invalid."
     validations:
       required: true
   - type: textarea

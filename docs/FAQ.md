@@ -26,8 +26,14 @@
 
 **Who owns our code?** You do. Participation does not grant a commercial licence. Supplied starter materials have their own permissions; a later product licence is a separate agreement.
 
-**Where should we communicate?** Ask technical questions through the Question issue form. Public answers give everyone the same information. Google Chat Space or WhatsApp can support discussion, but the repo contains authoritative rules and files. No Google Chat Space has been created by this release.
+**Where should we communicate?** Ask technical questions through the Question issue form. Public answers give everyone the same information. Use [the IITM Discord server](https://discord.gg/GwZdY54Gq) for event announcements and reminders. The repository contains authoritative technical rules and files.
 
 **Where are private seeds and outcomes?** They are held by organisers and are deliberately absent from this public repository. Public development data is not a private leaderboard.
 
 **Are prizes or institutional affiliations promised here?** No. This is the complete technical challenge release, not an institutional endorsement or employment offer.
+
+**Are probability estimates required?** No. They are optional report diagnostics and do not affect ranking. If reported, distinguish directional acceptance from mutual acceptance and define the target and observation window.
+
+**Can we fix a failure discovered after the deadline?** No. Self-validate using the published tests and public/container evaluator before the deadline. Early organiser/private validation is not guaranteed; later private assessment uses the frozen commit or checksum-pinned archive. See SUBMISSION.md for the full policy.
+
+**Where are event announcements?** Join [the official Discord server](https://discord.gg/GwZdY54Gq). Technical questions and corrections remain public in this repository. Joining Discord does not complete event registration.

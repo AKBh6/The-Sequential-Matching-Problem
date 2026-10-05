@@ -71,9 +71,9 @@ The new folder must not already exist. The generator uses only invented data and
 
 ## Submit and ask questions
 
-Research Submission deadline: **11 October 2026, 23:59 IST**.  Build Submission deadline: **18 October 2026, 23:59 IST**. (submission links will be provided via G-space)
+Research Submission deadline: **11 October 2026, 23:59 IST**.  Build Submission deadline: **18 October 2026, 23:59 IST**. Submit through the [Research submission](https://github.com/RomeoJulietLove/The-Sequential-Matching-Problem/issues/new?template=research_submission.yml) and [Final submission](https://github.com/RomeoJulietLove/The-Sequential-Matching-Problem/issues/new?template=final_submission.yml) issue forms. These links will also be shared in Discord.
 Teams: **1–4 participants**. Use [Question](https://github.com/RomeoJulietLove/The-Sequential-Matching-Problem/issues/new?template=question.yml). 
 
-This repository and public Issues are the shared technical communication hub. A Google Chat Space, WhatsApp group or Unstop listing can link here. Questions answered here are visible to every team. See [CHANGELOG.md](CHANGELOG.md) for release corrections.
+This repository and public Issues are the shared technical communication hub. Event announcements and reminders are shared through [the IITM Discord server](https://discord.gg/GwZdY54Gq). Questions answered here are visible to every team. See [CHANGELOG.md](CHANGELOG.md) for release corrections.
 
 The [starter-code permission](LICENSE) and [synthetic-data permission](DATA_LICENSE.md) permit reuse of the supplied kit. Students retain ownership of their own work; participation does not grant Vouchsafe a commercial licence to submissions. Later use requires a separate agreement.
